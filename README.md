@@ -9,5 +9,5 @@
 
 *DAY2*			[Functional Programming](functionalprogramming/DAY2_190716.md) 
 
-*DAY3*			[Functional Programming](functionalprogramming/DAY2_190716.md)
+*DAY3*			[Functional Programming](functionalprogramming/DAY3_190716.md)
 
